@@ -20,9 +20,3 @@ PRODUCT_PACKAGES += \
     PixelFrameworksOverlay \
     PixelSettingsOverlay \
     PixelSystemUIOverlay
-
-# Sounds
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.config.ringtone=The_big_adventure.ogg \
-    ro.config.notification_sound=Popcorn.ogg \
-    ro.config.alarm_alert=Bright_morning.ogg
